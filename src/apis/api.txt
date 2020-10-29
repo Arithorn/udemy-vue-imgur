@@ -1,0 +1,5 @@
+579dc2445ba13d9 - ClientID
+28526dd9512a7fbffb3a49dc9b446ee8e60ef72e - Client Secret
+
+
+URL - https://api.imgur.com/oauth2/authorize?client_id=YOUR_CLIENT_ID&response_type=token&state=APPLICATION_STATE
